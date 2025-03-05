@@ -49,7 +49,7 @@
 
 ## 博客内容
 
-在 [www.kumuze.space](https://www.kumuze.space) 博客中，我分享技术经验、项目开发过程以及一些有价值的思考。内容主要围绕技术应用与解决方案，欢迎访问交流。
+欢迎来我的博客玩 [www.kumuze.space](https://www.kumuze.space) 
 
 ## GitHub 统计
 
