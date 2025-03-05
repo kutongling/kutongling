@@ -1,7 +1,7 @@
 # 枯木泽 | Kumuze
 
 <div align="center">
-  <img src="https://www.kumuze.space/wp-content/uploads/2025/03/cropped-cropped-20250218_000421-副本.jpg" width="180" height="180" style="border-radius:50%; box-shadow:0 5px 15px rgba(0,0,0,0.1); border:5px solid white;" alt="枯木泽">
+  <img src="https://www.kumuze.space/wp-content/uploads/2025/03/cropped-head_1.jpg" width="180" height="180" style="border-radius:50%; box-shadow:0 5px 15px rgba(0,0,0,0.1); border:5px solid white;" alt="枯木泽">
   
   <h1 style="margin:20px 0 5px 0; color:#333; font-size:32px;">枯木泽 | Kumuze</h1>
   <p style="font-weight:500; color:#555; font-size:18px;">大学生 | 视频剪辑 | 技术爱好者</p>
